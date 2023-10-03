@@ -1,0 +1,53 @@
+@media (max-width: 610px) {
+
+  h2 {
+    font-size: 1.2em;
+  }
+
+  .score h2 {
+      font-size: 25px;
+  }
+
+  .score p{
+      font-size: 20px;
+  }
+
+  .intro h1{
+    font-size: 48px;
+    width: 80%;
+  }
+
+  .choosing_the_number_of_rounds h2 {
+    margin: 0 auto;
+    width: 80%;
+  }
+
+  .match {
+      margin: 20px auto;
+  }
+
+  .match img{
+      margin: 0;
+      border-radius: 6px;
+  }
+
+  .winner {
+      font-size: 25px;
+      margin: 30px auto;
+  }
+
+  .hands {
+      padding: 20px;
+      justify-content: space-between;
+  }
+  
+  .options {
+      flex-direction: column;
+  }
+
+  .hands img {
+      width: 150px;
+      height: 150px;
+  }
+
+}
